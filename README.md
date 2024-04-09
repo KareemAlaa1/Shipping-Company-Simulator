@@ -1,6 +1,6 @@
 # Shipping-company-simulator
  C++ Shipping company simulator
-# About the Project
+# Description
 A shipping company needs to handle cargo delivery the most efficient and profitable way.
 The company needs to automate the cargo-truck assignment process to achieve good and fair use
 of its trucks. Fortunately, the company manager discovers your programming skills and your deep
